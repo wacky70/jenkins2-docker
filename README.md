@@ -13,7 +13,7 @@ Pipeline as Code
 
 * Clone the repo 
 
-         $ git clone https://github.com/Shashikant86/jenkins2-docker
+         $ git clone https://github.com/wacky70/jenkins2-docker/
          $ cd jenkins2-docker 
 
  Build Images Jenkins Master and Jenkins Data 
